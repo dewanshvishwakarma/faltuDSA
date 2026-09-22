@@ -1,3 +1,4 @@
+
 public class {
 static int len(int[] a){
 int n=a.length;
