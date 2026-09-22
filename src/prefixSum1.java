@@ -37,6 +37,5 @@ public class prefixSum1 {
         }
     int[] a= withoutPrefix(arr);
         print(a);
-
     }
 }
