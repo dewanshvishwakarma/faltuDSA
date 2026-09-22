@@ -1,0 +1,11 @@
+public class {
+static int len(int[] a){
+int n=a.length;
+return n;
+}
+
+
+public static void main{
+}
+
+}
