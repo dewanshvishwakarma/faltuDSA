@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//prefix sum
 public class prefixSum1 {
     static void print(int[] arr){
         for(int i=0;i<arr.length;i++){
